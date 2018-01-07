@@ -6,7 +6,7 @@ INSTALLATION USB-HOST:
 1. Copy .hmod to USB:/hakchi/transfer
 2. Copy font files to USB:/hakchi/fonts if you do not have a font that support Nordic characters. (OPTIONAL) 
 
-INSTALLATION HAKCHI2:
+INSTALLATION HAKCHI2:<br>
 Drag and drop as with any .hmod
 
 NOTE:
