@@ -10,7 +10,7 @@ INSTALLATION HAKCHI2:
 Drag and drop as with any .hmod
 
 NOTE:
-You will need to use a font that support Nordic characters, otherwise ÅÄÖ/åäö might be missing.
+You will need to use a font that support Nordic characters, otherwise ÅÄÖ/åäö might be missing.<br>
 If you use the provided font files, make sure you use DanTheMan827's font remount .hmod.
 
 Module by Advokaten
