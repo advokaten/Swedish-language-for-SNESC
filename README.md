@@ -1,6 +1,16 @@
-# Swedish-language-for-SNESC
+# SWEDISH LANGUAGE MOD FOR SNES CLASSIC
 
-Simple hmod that adds Swedish language to the SNESC. In actuality, it's replacing the Russian lang file.
+This hmod will overmount the original Russian language file with a custom Swedish language file.
 
-Module by<br>
-Advokaten
+INSTALLATION USB-HOST:
+1. Copy .hmod to USB:/hakchi/transfer
+2. Copy font files to USB:/hakchi/fonts if you do not have a font that support Nordic characters. (OPTIONAL) 
+
+INSTALLATION HAKCHI2:
+Drag and drop as with any .hmod
+
+NOTE:
+You will need to use a font that support Nordic characters, otherwise ÅÄÖ/åäö might be missing.
+If you use the provided font files, make sure you use DanTheMan827's font remount .hmod.
+
+Module by Advokaten
